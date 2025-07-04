@@ -1,2 +1,3 @@
-# OTS Settlement App
-Final production-ready version.
+# OTS Final App
+
+Production-ready React app for OTS system.
